@@ -4,7 +4,10 @@ This repository contains Python code that implements a fuzzy logic system using 
 ## Dependencies
 Make sure you have scikit-fuzzy installed:## Usage
 1. Clone the repository:
-   
+  ```
+  git clone https://github.com/kafSaugat7/Fuzzy_Logic.git
+  cd Fuzzy_Logic
+```
  2. Run the fuzzy logic simulation:
 Open the Python script restaurant_tipping_fuzzy.ipynb and execute it. Ensure you have Python and the necessary libraries installed.
 
