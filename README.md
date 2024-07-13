@@ -2,7 +2,8 @@
 # Fuzzy Logic Implementation for Restaurant Tipping System
 This repository contains Python code that implements a fuzzy logic system using scikit-fuzzy to estimate the appropriate tip percentage based on three input variables: food quality, service quality, and ambiance.
 ## Dependencies
-Make sure you have scikit-fuzzy installed:## Usage
+Make sure you have scikit-fuzzy installed:
+## Usage
 1. Clone the repository:
   ```
   git clone https://github.com/kafSaugat7/Fuzzy_Logic.git
